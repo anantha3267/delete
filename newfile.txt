@@ -3,3 +3,4 @@ green
 blue
 stash
 added data in git
+do git pull now
