@@ -1,1 +1,3 @@
-print("g")
+red
+green
+blue
